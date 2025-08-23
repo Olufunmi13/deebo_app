@@ -7,6 +7,7 @@ import PopularEvents from "./components/PopularEvents";
 import Navbar from "./navbar";
 import Footer from "./footer";
 import Stats from "./components/Stats";
+import InspirationSection from "./components/InspirationSection";
 export default function Home() {
   return (
     <>
@@ -74,6 +75,8 @@ export default function Home() {
         <Stats />
         {/* Partners Section */}
         <PartnerSection />
+        {/* Inspiration Section */}
+        <InspirationSection />
       </main>
       {/* Footer */}
       <Footer />
