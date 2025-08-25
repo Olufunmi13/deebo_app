@@ -41,7 +41,6 @@ const [isSmallScreen, setIsSmallScreen] = useState(false);
           <Marquee
             speed={50}
             gradient={true}
-            gradientColor="hsl(var(--accent-100))"
             gradientWidth={isSmallScreen ? 50 : 100}
             pauseOnHover
           >
