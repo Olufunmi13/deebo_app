@@ -49,7 +49,7 @@ const sampleEvents: EventCardType[] = [
     price: 5000,
     description: 'Short description to be truncated after first line...',
     type: 'Event',
-    image: '/image/cardImg-5.jpg'
+    image: '/image/cardimg-5.jpg'
   },
   {
     id: '6',
@@ -57,7 +57,7 @@ const sampleEvents: EventCardType[] = [
     price: 5000,
     description: 'Short description to be truncated after first line...',
     type: 'Event',
-    image: '/image/cardImg-6.jpg'
+    image: '/image/cardimg-6.jpg'
   },
   {
     id: '7',
@@ -65,7 +65,7 @@ const sampleEvents: EventCardType[] = [
     price: 5000,
     description: 'Short description to be truncated after first line...',
     type: 'Event',
-    image: '/image/cardImg-7.jpg'
+    image: '/image/cardimg-7.jpg'
   },
   {
     id: '8',
@@ -73,7 +73,7 @@ const sampleEvents: EventCardType[] = [
     price: 5000,
     description: 'Short description to be truncated after first line...',
     type: 'Event',
-    image: '/image/cardImg-8.jpg'
+    image: '/image/cardimg-8.jpg'
   },
   {
     id: '9',
@@ -81,7 +81,7 @@ const sampleEvents: EventCardType[] = [
     price: 5000,
     description: 'Short description to be truncated after first line...',
     type: 'Event',
-    image: '/image/cardImg-8.jpg'
+    image: '/image/cardimg-8.jpg'
   },
 ];
 

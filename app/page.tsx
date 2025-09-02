@@ -24,7 +24,7 @@ export default function Home() {
           <div className="flex flex-row justify-center items-center gap-4 my-6">
             <button className="tab-button active flex items-center gap-2">
               <Image
-                src="/icons/searchallicon.png"
+                src="/icons/searchallIcon.png"
                 alt="Search All Icon"
                 width={16}
                 height={16}
@@ -34,7 +34,7 @@ export default function Home() {
             </button>
             <button className="tab-button flex items-center gap-2">
               <Image
-                src="/icons/eventicon.png"
+                src="/icons/eventIcon.png"
                 alt="Events Icon"
                 width={16}
                 height={16}
@@ -44,7 +44,7 @@ export default function Home() {
             </button>
             <button className="tab-button flex items-center gap-2">
               <Image
-                src="/icons/contesticon.png"
+                src="/icons/contestIcon.png"
                 alt="Contest Icon"
                 width={16}
                 height={16}
@@ -54,7 +54,7 @@ export default function Home() {
             </button>
             <button className="tab-button flex items-center gap-2">
               <Image
-                src="/icons/formicon.png"
+                src="/icons/formIcon.png"
                 alt="Form Icon"
                 width={16}
                 height={16}
